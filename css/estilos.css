@@ -1,0 +1,18 @@
+p {
+    color: brown;
+    width: 300px;
+}
+/**
+Hola, tene cuidado
+*/
+h1 {
+    font-family: 'Roboto', sans-serif;;
+    color: blueviolet;
+    font-size: large;
+}
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
